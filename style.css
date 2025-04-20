@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff5e6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff7f50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.receita {
+  background-color: #ffe4c4;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #ff7f50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
